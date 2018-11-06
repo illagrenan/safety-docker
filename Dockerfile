@@ -1,4 +1,4 @@
-FROM python:alpine
+FROM python:3-alpine
 
 LABEL authors="Vašek Dohnal <vaclav.dohnal@gmail.com>"
 ARG SAFETY_VERSION=1.8.4
